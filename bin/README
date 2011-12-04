@@ -1,0 +1,3 @@
+Gatherer is a utilty written in Perl that can be used to pull system info and any program-related info you want.
+
+The application profiles are built in YAML (base.cfg and product.cfg).  When run, the program will create an info folder, organizing the information in folders that can be viewed in an index.html file.
